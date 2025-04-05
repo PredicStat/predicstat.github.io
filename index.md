@@ -1,25 +1,13 @@
----
-layout: base
-title: "PredicStat | Cosultoría Estadística Especializada"
-css:
-  - /assets/css/index.css
-ext-css:
-  - //fonts.googleapis.com/css?family=Roboto:400,700
-js:
-  - /assets/js/index.js
-ext-js:
-  - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
----
 
 <div id="header" class="cut1" markdown="1">
 
 <div id="header-inner" markdown="1">
 
-# PredicStat {#title}
+# PredicStat 
 
-## Cosultoría Estadística Especializada {#subtitle}
+## Cosultoría Estadística Especializada 
 
-#### Led by World-Renowned Shiny Expert [Dean Attali](https://deanattali.com/) {#sub-subtitle}
+#### Led by World-Renowned Shiny Expert [Dean Attali](https://deanattali.com/) 
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
